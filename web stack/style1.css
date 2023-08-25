@@ -1,0 +1,13 @@
+.box{
+    background-color: aqua;
+    height: 100px;
+}
+.heroimage{
+    background-image: url("burj.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.herotext{
+    text-align: center;
+    padding: 140px;
+}

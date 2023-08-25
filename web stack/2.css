@@ -1,0 +1,15 @@
+.viri{
+    background-color: aqua;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    }
+body{
+    background-color: cornsilk;
+}
+figure{
+    border-radius: 10px;
+}
+article{
+    display: flex;
+}

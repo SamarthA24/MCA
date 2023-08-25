@@ -1,0 +1,31 @@
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    height: 600px;
+    align-items: stretch;
+    background-color: white;
+}
+.flex-container > div{
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    box-shadow: 1px 1px;
+}
+button{
+    padding: 10px;
+    border: none;
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+}
+button:active{
+    color: aqua;
+}
+button:hover{
+    background-color: aquamarine;
+    color: burlywood;
+}
